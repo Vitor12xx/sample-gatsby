@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Crash Course`,
+    title: `The Hell Bell`,
     description: `Sample webiste for Gatsby Crash Course of Traversy Media channel. Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
